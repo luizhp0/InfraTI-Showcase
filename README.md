@@ -60,8 +60,6 @@ A visualização colorida representa as faixas de intensidade estimada do sinal.
 
 ![Cobertura Wi-Fi estimada exibida sobre a planta do InfraTI](./images/cobertura-wifi.png)
 
-> **Nota sobre privacidade:** as capturas apresentadas retratam uma interface de uso interno. A exposição pública de plantas físicas, localização de equipamentos e informações de rede deve ser revisada e autorizada pela instituição responsável. O código-fonte e os dados operacionais permanecem privados.
-
 ---
 
 ## Simulação de cobertura Wi-Fi
@@ -101,8 +99,6 @@ Por exemplo, **a 10 metros** do ponto de acesso:
 | Com 1 parede | -67 |
 | Com 2 paredes | -72 |
 | Com 3 paredes | -77 |
-
-> **Limitações do modelo:** a simulação é uma ferramenta de apoio ao planejamento, não uma medição real de sinal ou velocidade. Interferências, materiais de construção, características dos dispositivos e condições do ambiente influenciam a cobertura. Os perfis de equipamentos atualmente compartilham os mesmos parâmetros de cálculo; a calibração com medições reais é uma possível evolução do projeto.
 
 Essa funcionalidade une **visualização espacial, geometria e lógica de cálculo** a uma necessidade real de infraestrutura.
 
