@@ -40,6 +40,30 @@ Com o mapa, é possível visualizar a distribuição dos recursos, acompanhar o 
 
 ---
 
+## Imagens do sistema
+
+### 1. Visão geral do InfraTI
+
+A interface principal apresenta a planta interativa, as camadas e o acompanhamento dos pontos de rede. É possível navegar entre ambientes, localizar itens e consultar o andamento das instalações.
+
+![Visão geral da interface do InfraTI](./images/visao-geral.png)
+
+### 2. Cadastro e posicionamento de equipamentos
+
+Os itens podem ser adicionados diretamente no mapa, organizados por categoria — computadores, impressoras, pontos de rede, switches, servidores e dispositivos Wi-Fi.
+
+![Seleção de tipos de equipamento no InfraTI](./images/cadastro-equipamentos.png)
+
+### 3. Cobertura Wi-Fi estimada
+
+A visualização colorida representa as faixas de intensidade estimada do sinal. Ela ajuda a comparar posições de access points e antecipar áreas de possível sinal fraco, considerando a distância e as paredes.
+
+![Cobertura Wi-Fi estimada exibida sobre a planta do InfraTI](./images/cobertura-wifi.png)
+
+> **Nota sobre privacidade:** as capturas apresentadas retratam uma interface de uso interno. A exposição pública de plantas físicas, localização de equipamentos e informações de rede deve ser revisada e autorizada pela instituição responsável. O código-fonte e os dados operacionais permanecem privados.
+
+---
+
 ## Simulação de cobertura Wi-Fi
 
 Um dos recursos que mais gosto no InfraTI é a **visualização estimada da cobertura Wi-Fi sobre a própria planta**.
@@ -115,16 +139,6 @@ Durante a construção do InfraTI, precisei trabalhar com problemas que vão al�
 Fui responsável pelo desenvolvimento da aplicação, trabalhando na interface, nas interações do mapa, na integração com os dados e na implementação das funcionalidades de gerenciamento e planejamento.
 
 O InfraTI reúne duas áreas com as quais tenho contato no dia a dia: **infraestrutura de TI e desenvolvimento de software**.
-
-## Imagens do sistema
-
-**Galeria em preparação.** As capturas de tela serão incluídas após revisão e autorização para divulgação, com informações institucionais sensíveis removidas ou substituídas.
-
-A apresentação visual deverá mostrar:
-
-- A interface geral e a navegação pelo mapa.
-- O cadastro e o posicionamento de tipos de equipamentos.
-- A visualização da cobertura Wi-Fi estimada, em uma **planta demonstrativa ou devidamente autorizada**, sem revelar o layout real e a localização dos ativos de rede.
 
 ## Por que o código não está disponível?
 
